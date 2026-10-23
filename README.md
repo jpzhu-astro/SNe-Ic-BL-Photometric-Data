@@ -4,7 +4,7 @@ To facilitate their use by the astronomical community, we make publicly availabl
 
 ## Data Format
 
-Unless otherwise specified in an individual `Readme.txt` file, the data are organized into three columns:
+Unless otherwise specified in an individual `Readme.txt` file, the data are stored in files `named SN_name_band.txt` and organized into three columns:
 
 1. **Column 1:** Observation times in the observer frame, with an arbitrary reference epoch.
 2. **Column 2:** Observed magnitudes without any extinction correction.
