@@ -14,7 +14,7 @@ Unless otherwise specified in an individual `Readme.txt` file, the data are orga
 
 Since the original photometric data from the PTF/iPTF were not publicly accessible to us, these data were manually digitized from the figures presented in Taddia et al. 2017, A&A, 621, A71.
 
-Due to significant overlap among some data points in the published figures, we cannot guarantee the complete accuracy of the digitized PTF/iPTF photometry. For data points whose error bars could not be reliably identified, we adopted an assumed uncertainty of 0.1 mag.
+Due to significant overlap among some data points in the published figures, we cannot guarantee the complete accuracy of the digitized PTF/iPTF photometry. For data points whose error bars could not be reliably identified, we conservatively adopted a relatively large uncertainty of 0.1 mag.
 
 Users should therefore exercise caution when interpreting or fitting these digitized data.
 
